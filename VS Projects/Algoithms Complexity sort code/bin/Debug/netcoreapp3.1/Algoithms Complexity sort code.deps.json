@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Algoithms Complexity sort code/1.0.0": {
+        "runtime": {
+          "Algoithms Complexity sort code.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algoithms Complexity sort code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

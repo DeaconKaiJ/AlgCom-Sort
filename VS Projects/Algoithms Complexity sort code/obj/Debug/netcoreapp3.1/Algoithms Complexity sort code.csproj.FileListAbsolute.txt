@@ -1,0 +1,11 @@
+D:\VS Projects\Algoithms Complexity sort code\obj\Debug\netcoreapp3.1\Algoithms Complexity sort code.csprojAssemblyReference.cache
+D:\VS Projects\Algoithms Complexity sort code\obj\Debug\netcoreapp3.1\Algoithms Complexity sort code.AssemblyInfoInputs.cache
+D:\VS Projects\Algoithms Complexity sort code\obj\Debug\netcoreapp3.1\Algoithms Complexity sort code.AssemblyInfo.cs
+D:\VS Projects\Algoithms Complexity sort code\bin\Debug\netcoreapp3.1\Algoithms Complexity sort code.exe
+D:\VS Projects\Algoithms Complexity sort code\bin\Debug\netcoreapp3.1\Algoithms Complexity sort code.deps.json
+D:\VS Projects\Algoithms Complexity sort code\bin\Debug\netcoreapp3.1\Algoithms Complexity sort code.runtimeconfig.json
+D:\VS Projects\Algoithms Complexity sort code\bin\Debug\netcoreapp3.1\Algoithms Complexity sort code.runtimeconfig.dev.json
+D:\VS Projects\Algoithms Complexity sort code\bin\Debug\netcoreapp3.1\Algoithms Complexity sort code.dll
+D:\VS Projects\Algoithms Complexity sort code\bin\Debug\netcoreapp3.1\Algoithms Complexity sort code.pdb
+D:\VS Projects\Algoithms Complexity sort code\obj\Debug\netcoreapp3.1\Algoithms Complexity sort code.dll
+D:\VS Projects\Algoithms Complexity sort code\obj\Debug\netcoreapp3.1\Algoithms Complexity sort code.pdb
